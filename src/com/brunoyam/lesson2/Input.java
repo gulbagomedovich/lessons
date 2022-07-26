@@ -1,4 +1,4 @@
-package com.brunoyam.lesson1;
+package com.brunoyam.lesson2;
 
 import java.util.Scanner;
 
