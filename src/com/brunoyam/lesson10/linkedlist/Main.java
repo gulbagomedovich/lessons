@@ -1,4 +1,4 @@
-package com.brunoyam.lesson9.linkedlist;
+package com.brunoyam.lesson10.linkedlist;
 
 public class Main {
     public static void main(String[] args) {
