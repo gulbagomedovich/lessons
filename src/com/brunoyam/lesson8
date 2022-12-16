@@ -1,0 +1,15 @@
+Recursion
+  - recursiveMethod()
+  - timer(int n)
+  - counter(int n)
+  - ПРАКТИКА: factorial(int n)
+  
+  Fibonacci
+    - ПРАКТИКА: calculateFibonacciByRecursion(int n)
+    - calculateFibonacciByLoop(int n)
+    
+  BinarySearch
+    - linearSearch(int[] array, int key)
+    - binarySearch(int[] sortedArray, int key)
+    
+  Sorts
